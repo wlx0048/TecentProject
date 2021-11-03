@@ -10,9 +10,9 @@
 
 ​                   完成了角色的分数、血量、玩家姓名在游戏界面的显示。
 
- [百度网盘] [www.baidu.com]
+ [百度网盘] [https://pan.baidu.com/s/1IuJjxAJvmHzpwCKyW3-uFA]
 
-提取码：
+提取码：1223
 
 ​                 
 
