@@ -10,9 +10,17 @@
 
 ​                   完成了角色的分数、血量、玩家姓名在游戏界面的显示。
 
- [百度网盘] [https://pan.baidu.com/s/1IuJjxAJvmHzpwCKyW3-uFA]
+ [百度网盘][https://pan.baidu.com/s/1IuJjxAJvmHzpwCKyW3-uFA]
 
 提取码：1223
 
-​                 
+
+
+# 第四周作业
+
+​        完成任务：完成基础的移动功能、俯仰表现、实现了武器开火和近身攻击的效果
+
+​        实现了按下alt键后的自由视角与角色头部移动。
+
+​        [百度网盘][https://pan.baidu.com/s/1EUDorgWWZD17-Q5A1Ji7AA]       提取码：1223   
 
