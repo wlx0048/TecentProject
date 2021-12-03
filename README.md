@@ -66,3 +66,17 @@
 
    [百度网盘][https://pan.baidu.com/s/19HvyJr1kyFUAUwQ3m_6Jgw] 提取码：1223
 
+
+
+## 第七次作业
+
+1、半透明和透明材质
+
+2、smoke粒子特效
+
+3、添加了进入碰撞后随机调整材质的不透明度
+
+4、后处理效果
+
+[百度网盘][https://pan.baidu.com/s/1tgoi82I5hqbUx3uuGMWDcw] 提取码：1223
+
